@@ -8,24 +8,10 @@
 ## New Packages
 
 - [`cenpy`](https://cenpy-devs.github.io/cenpy/)
-- [`us`](https://github.com/unitedstates/python-us)
+- [`pygris`](https://walker-data.com/pygris/)
 - [`textblob`](https://github.com/sloria/textblob)
-- [`carto2gpd`](https://github.com/PhiladelphiaController/carto2gpd)
-- [`esri2gpd`](https://github.com/PhiladelphiaController/esri2gpd)
+- [`transformers`](https://huggingface.co/docs/transformers/index)
 
-
-## Recommended Reading
-
-- [Tutorial on tweepy with v2 API](https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9) -- **very good tutorial, definitely read this**
-
-
-## Useful Links
-
-- [American Factfinder](https://factfinder.census.gov)
-- [US Census Data via NHGIS](https://www.nhgis.org/)
-- [Data USA](https://datausa.io/)
-- [Census Reporter](https://censusreporter.org/)
-- [Racial Dot Map](https://demographics.coopercenter.org/Racial-Dot-Map)
 
 ## Reference Materials
 
