@@ -11,7 +11,7 @@
 - [`pygris`](https://walker-data.com/pygris/)
 - [`textblob`](https://github.com/sloria/textblob)
 - [`transformers`](https://huggingface.co/docs/transformers/index)
-
+- [`wordcloud`](https://github.com/amueller/word_cloud)
 
 ## Reference Materials
 
@@ -24,3 +24,4 @@
 - [`pygris` Documentation](https://walker-data.com/pygris/)
 - [`textblob` Documentation](https://textblob.readthedocs.io/)
 - [`transformers` Documentation](https://huggingface.co/docs/transformers/index)
+- [`wordcloud` Documentation](https://amueller.github.io/word_cloud/)
